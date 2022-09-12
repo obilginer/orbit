@@ -1,13 +1,11 @@
 ---
-title: Our Coffee
-type: products
+title: Güneş Panelleri
+type: Ürünler
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Nasıl bir ürün seçmeli?
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Güneş panelleri, enerji üretiminde en önemli unsurlardan biridir. Seçim yapılırken, uzun ömürlü ve alana göre en verimli özellikleri
+  içeren ürün gamlarından seçilmesi son derece önemlidir.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
